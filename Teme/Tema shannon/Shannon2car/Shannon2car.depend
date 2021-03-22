@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588248934 source:e:\facultate\anul ii\sem ii\calculatoarenumerice\tema shannon\shannon2car\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
